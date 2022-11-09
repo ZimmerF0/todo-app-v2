@@ -16,15 +16,15 @@
 }
 
 .todoFormContainer button {
-margin-left: 20px;
-height: 50px;
-cursor: pointer;
-background-color:beige;
-font-size: 1.5rem;
+  margin-left: 20px;
+  height: 50px;
+  cursor: pointer;
+  background-color: beige;
+  font-size: 1.5rem;
 }
 
 .todoFormContainer button:hover {
-  background-color: rgb(240, 240, 155 );
+  background-color: rgb(240, 240, 155);
 }
 
 .todoFormContainer input,
